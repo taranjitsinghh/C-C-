@@ -21,13 +21,13 @@ int main(){
         switch(i)
         {
             case 1:
-            printf("I am file 1");
+            printf("Hi, I am file 1");
             break;
             case 2:
-            printf("I am file 2");
+            printf("Hi, I am file 2");
             break;
             case 3:
-            printf("I am file 3");
+            printf("Hi, I am file 3");
             break;
             default:
             printf("I am default");
